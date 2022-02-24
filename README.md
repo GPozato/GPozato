@@ -14,5 +14,6 @@
   <a href="https://www.facebook.com/gpozato/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
  ##
-  ![Animação cobra](https://github.com/GPozato/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div
+ 
+ ![Animação cobra](https://github.com/GPozato/GPozato/blob/output/github-contribution-grid-snake.svg)
+</div>
