@@ -1,4 +1,4 @@
-## Ola, eu sou Gabriel Pozato, Desenvolvedor FullStack / HTML / CSS / JAVASCRIPT!
+## Ola, eu sou Gabriel Pozato, Desenvolvedor FullStack / HTML / CSS / JAVASCRIPT / MYSQL!
  
  <div align="center">
   <a href="https://github.com/GPozato">
