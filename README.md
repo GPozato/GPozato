@@ -1,4 +1,4 @@
-## Ola, eu sou Gabriel Pozato, Desenvolvedor FullStack / HTML / CSS / JAVASCRIPT / MYSQL / TYPESCRIPT / ANGULAR 8/ IONIC/ DELPHI!
+## Ola, eu sou Gabriel Pozato, Desenvolvedor em estudo FullStack / HTML / CSS / JAVASCRIPT / MYSQL / TYPESCRIPT / ANGULAR 8/ IONIC/ DELPHI!
  
  <div align="center">
   <a href="https://github.com/GPozato">
